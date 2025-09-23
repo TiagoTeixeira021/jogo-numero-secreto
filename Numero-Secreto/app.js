@@ -5,7 +5,7 @@
 // paragrafo.innerHTML = "Boas-vindas ao jogo / Número (1 - 100):"
 
 let listaNumeroSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = geraNumeroAleatorio();
 let tentativas = 1;
 
